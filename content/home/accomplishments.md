@@ -29,7 +29,7 @@ item:
     description: ''
     organization: Courserabera
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    title: Neural Networks and Deep Learninggg
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
